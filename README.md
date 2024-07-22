@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="left">🎓 Master of Technology in Computer Science & Engineering | 🌐 Passionate about Android Development</h3>
+<h3 align="left">🎓 Master of Technology in Computer Science & Engineering | 🌐 Passionate about SW and Android Development</h3>
 <h3 align="left">💻 Specializing in:</h3>
 
-- 🚀 Android App Development
+- 🚀 Full stack Android App Development
   
 - 🧠 C++ | Data Structures & Algorithms
   
