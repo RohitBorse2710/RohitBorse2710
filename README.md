@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">I hold a Master of Technology in Computer Science and Engineering from Netaji Subhas University of Technology. With a strong foundation in C++, Data Structures and Algorithms (DSA), and Android development, I am dedicated to solving complex problems and optimizing performance in Android applications.</h3>
+<h3 align="left">🎓 Master of Technology in Computer Science & Engineering | 🌐 Passionate about Android Development</h3>
+<h3 align="left">💻 Specializing in:</h3>
+
+- 🚀 Android App Development
+  
+- 🧠 C++ | Data Structures & Algorithms
+  
+<h3 align="left">🔍 Always seeking to optimize performance and solve complex problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitborse2710&label=Profile%20views&color=0e75b6&style=flat" alt="rohitborse2710" /> </p>
 
@@ -7,7 +14,7 @@
 
 - 📫 How to reach me **rohitborse8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/187ZSdlh0UIlz6FGzqrZzuGUdzT7S017l/view?usp=sharing](https://drive.google.com/file/d/187ZSdlh0UIlz6FGzqrZzuGUdzT7S017l/view?usp=sharing)
+- 📄 Know about my experiences [Click me](https://drive.google.com/file/d/187ZSdlh0UIlz6FGzqrZzuGUdzT7S017l/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
